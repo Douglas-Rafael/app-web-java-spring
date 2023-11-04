@@ -50,3 +50,6 @@ mvn spring-boot:run
 ```
 
 The application will be available at http://localhost:8080/movies
+
+![Captura de tela 2023-11-04 011148](https://github.com/Douglas-Rafael/app-web-java-spring/assets/137113815/7e8eed07-1f8e-4ae8-9d07-b2475dd77837)
+![Captura de tela 2023-11-04 011208](https://github.com/Douglas-Rafael/app-web-java-spring/assets/137113815/530beac4-ba31-436f-ba31-a1c5475a0ff3)
