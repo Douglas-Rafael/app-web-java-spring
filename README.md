@@ -1,5 +1,11 @@
+<div align="center">
+  
+![project-screen-match-logo](https://github.com/Douglas-Rafael/app-web-java-spring/assets/137113815/8a12d979-1758-4b31-a4f4-f01c7d9bbb43)
+
 # ScreenMatch - Simple Movie CRUD Project
 
+</div>
+ 
 [![Java Version](https://img.shields.io/badge/Java-17-blue)](https://www.oracle.com/java/technologies/javase-downloads.html)
 [![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-3.1.4-brightgreen)](https://spring.io/projects/spring-boot)
 
